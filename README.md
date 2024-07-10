@@ -20,6 +20,6 @@
   * [Element3 Tree](https://github.com/hug-sun/element3/blob/master/packages/element3/packages/tree/Tree.vue)
 4. 源码
   * [迷你版本weiyouyi](https://github.com/course-dasheng/weiyouyi)
-  * [响应式](https://github.com/shengxinjing/weiyouyi/tree/main/src/reactivity)
-  * [编译](https://github.com/shengxinjing/weiyouyi/tree/main/src/compiler-core)
-  * [SSR](https://github.com/shengxinjing/geektime-vue-course/tree/main/vue-ssr)
+  * [响应式](https://github.com/course-dasheng/weiyouyi/tree/main/src/reactivity)
+  * [编译](https://github.com/course-dasheng/weiyouyi/tree/main/src/compiler-core)
+  * [SSR](https://github.com/course-dasheng/geektime-vue-course/tree/main/vue-ssr)
